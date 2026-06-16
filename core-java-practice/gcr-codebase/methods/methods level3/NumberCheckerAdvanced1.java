@@ -1,0 +1,1 @@
+public class NumberCheckerAdvanced1 { /* Solution template */ }

@@ -1,0 +1,1 @@
+public class FactorsAnalysis { /* factors, sum, product, sum of squares */ }

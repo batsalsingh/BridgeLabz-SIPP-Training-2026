@@ -1,0 +1,1 @@
+public class NumberAnalysis { /* positive/negative, even/odd */ }

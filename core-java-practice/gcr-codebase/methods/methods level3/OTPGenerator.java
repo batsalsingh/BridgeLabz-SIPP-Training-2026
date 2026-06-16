@@ -1,0 +1,1 @@
+public class OTPGenerator { /* Solution template */ }
