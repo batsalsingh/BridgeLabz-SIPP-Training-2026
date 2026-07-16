@@ -1,0 +1,1 @@
+public class CollinearPoints { /* Solution template */ }

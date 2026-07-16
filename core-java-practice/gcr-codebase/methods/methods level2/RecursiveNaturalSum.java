@@ -1,0 +1,1 @@
+public class RecursiveNaturalSum { /* recursion vs formula */ }
